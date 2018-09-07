@@ -5,11 +5,8 @@ Tablet Based Check-in System for Hospitals
 
 ## Incudes:
 Executive Summary: One page summary of our business idea's major components
-
 BusinesPlan: 7 page in depth look at our business idea's major components
-
 PitchDeck: Powerpoint presentation when pitching to judges and potential investors
-
 Technical Report: A detailed report on the technical components of the business idea
 
 
