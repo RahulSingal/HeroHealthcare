@@ -10,5 +10,7 @@ BusinesPlan: 7 page in depth look at our business idea's major components
 
 PitchDeck: Powerpoint presentation when pitching to judges and potential investors
 
+Technical Report: A detailed report on the technical components of the business idea
+
 
 
